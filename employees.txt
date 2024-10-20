@@ -1,0 +1,12 @@
+5001,admin,admin123,administrator
+1001,emp1,emp123,employee
+1002,emp2,emp124,employee
+4001,mg1,mg123,manager
+1003,siraj,miya,employee
+1004,virat,anushka,employee
+1005,Pavan,1234,employee
+1006,riss,riss123,employee
+4002,prabh,prabh123,manager
+1008,inshu,inshu123,employee
+1009,Ram,ram123,employee
+1010,krishna,krish123,employee10
