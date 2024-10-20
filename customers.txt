@@ -1,4 +1,4 @@
-1,Pavan,234,11655.00,0,1,n,0,16
-2,Geethu,456,5088.00,0,0,good,0,8
-3,Sarath,789,2000.00,0,1,No feedback,0,0
-4,Irfan,785,20000.00,0,1,No feedback,0,0
+1,Sonu,234,11655.00,0,1,n,0,16
+2,Thouseef,456,5088.00,0,0,good,0,8
+3,Nawaz,789,2000.00,0,1,No feedback,0,0
+4,Abida,785,20000.00,0,1,No feedback,0,0
